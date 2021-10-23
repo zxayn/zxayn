@@ -1,15 +1,13 @@
 .jumbotron {
-	padding: 2rem 1rem;
-	background-color: #3244a8;
+  padding-top: 6rem;
+
+  background-color: #ffd700;
 }
 
-#about {
-	margin-top: 25px
-}
-#portofolio {
-	margin-top: 30px
+#project {
+  background-color: #ffd700;
 }
 
-#portofolio {text-decoration-color: rgb(background-color);
-
+section {
+  padding-top: 7rem;
 }
