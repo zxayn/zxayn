@@ -1,5 +1,21 @@
+body {
+  overflow-x: hidden;
+}
+
+.row {
+  margin:0px;
+}
+
+.container {
+  margin: auto;
+}
+
+.row>* {
+  margin:0px;
+}
+
 .jumbotron {
-  padding-top: 9rem;
+  padding-top: 10rem;
 
   background-color: #ffd700;
 }
@@ -10,4 +26,37 @@
 
 section {
   padding-top: 9rem;
+}
+
+#about p {
+  margin-top: 50px;
+}
+
+#about svg {
+  margin-top: 150px;
+}
+
+.project-group {
+  margin-top: 50px;
+}
+
+#contact svg {
+  margin-top: 150px;
+}
+
+footer p {
+  margin-bottom: 100px;
+}
+
+.contact-section .box .icon {
+  width: 100px;
+  height: 100px;
+  background: #ffd700;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  font-size: 30px;
 }
