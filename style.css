@@ -1,21 +1,5 @@
-body {
-  overflow-x: hidden;
-}
-
-.row {
-  margin:0px;
-}
-
-.container {
-  margin: auto;
-}
-
-.row>* {
-  margin:0px;
-}
-
 .jumbotron {
-  padding-top: 10rem;
+  padding-top: 9rem;
 
   background-color: #ffd700;
 }
