@@ -1,17 +1,18 @@
 body {
   overflow-x: hidden;
+  text-decoration: none;
 }
 
 .row {
-  margin:0px;
+  margin: 0px;
 }
 
 .container {
   margin: auto;
 }
 
-.row>* {
-  margin:0px;
+.row > * {
+  margin: 0px;
 }
 
 .jumbotron {
@@ -45,13 +46,13 @@ section {
 }
 
 footer p {
-  margin-bottom: 100px;
+  margin-bottom: 120px;
 }
 
 .contact-section .box .icon {
   width: 100px;
   height: 100px;
-  background: #ffd700;
+  background: #ffd900;
   margin: 0 auto;
   margin-bottom: 10px;
   -webkit-border-radius: 50%;
@@ -59,4 +60,13 @@ footer p {
   -ms-border-radius: 50%;
   border-radius: 50%;
   font-size: 30px;
+}
+
+.box head a {
+  color: #ffff;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
 }
