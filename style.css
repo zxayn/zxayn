@@ -16,7 +16,7 @@ body {
 }
 
 .jumbotron {
-  padding-top: 10rem;
+  padding-top: 8rem;
 
   background-color: #ffd700;
 }
@@ -46,7 +46,7 @@ section {
 }
 
 footer p {
-  margin-bottom: 120px;
+  margin-bottom: 200px;
 }
 
 .contact-section .box .icon {
