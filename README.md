@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there <img src="https://img.icons8.com/ios/50/000000/private-emoticon--v3.png"/>
 
 <!--
 zxayn is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
