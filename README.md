@@ -1,4 +1,4 @@
-[icons8-silent](https://user-images.githubusercontent.com/91713123/139722221-30287230-1fdc-416d-93ab-6002c4b3fe87.gif)
+![icons8-silent](https://user-images.githubusercontent.com/91713123/139722418-1c1911e8-ad61-4538-b143-fb4645ffba15.gif)
 
 
 <!--
