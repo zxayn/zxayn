@@ -5,3 +5,4 @@ Hi, I'm zxayn, a Web Designer from Kediri, East Java, Indonesia. I'm not a stron
 - 🌱 I'm studying Web Designer;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: zidanxjr8@gmail.com 
+- chart_with_upwards_trend My GitHub Stats
