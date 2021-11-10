@@ -1,8 +1,7 @@
-![icons8-silent](https://user-images.githubusercontent.com/91713123/139722418-1c1911e8-ad61-4538-b143-fb4645ffba15.gif)
 
+![004b173f6e3d6843df10114e087f30a8](https://user-images.githubusercontent.com/91713123/141039748-98f1abec-e844-430f-9321-b56bc7cf078e.gif)
 
-<!--
-zxayn is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--zxayn is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
