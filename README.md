@@ -1,8 +1,7 @@
-![akwoakowa](https://user-images.githubusercontent.com/91713123/141046115-8bd49504-6da3-4b6b-b711-c8719a720950.gif)
-
 <!--zxayn is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![akwoakowa](https://user-images.githubusercontent.com/91713123/141046274-99435cc1-b800-46ae-b226-7f49f83e3b2b.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
